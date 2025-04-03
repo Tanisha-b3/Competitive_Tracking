@@ -15,13 +15,6 @@ A **MERN Stack Contest Tracker** that fetches upcoming and past contests from **
 - **Frontend:** React, CSS Modules / Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB
 - **API Integration:** Codeforces, CodeChef, LeetCode via Clist API
-- **Deployment:** Docker, Kubernetes
-- **Caching:** Redis
-
-## API Endpoints Used
-- **LeetCode Contests:** `https://competeapi.vercel.app/contests/leetcode/`
-- **CodeChef Contests:** `https://competeapi.vercel.app/contests/codechef/`
-- **Codeforces Contests:** Custom API implementation
 
 ## Installation & Setup
 1. Clone the repository:
