@@ -24,7 +24,7 @@ A **MERN Stack Contest Tracker** that fetches upcoming and past contests from **
    ```
 2. Install dependencies for both frontend & backend:
    ```sh
-   cd client
+   cd frontend
    npm install
    cd ../server
    npm install
